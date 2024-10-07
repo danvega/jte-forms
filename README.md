@@ -54,6 +54,8 @@ This command will:
 
 Once started, you can access the application by opening a web browser and navigating to `http://localhost:8080`.
 
+![Form](/images/personal_info_form.png)
+
 ## Relevant Code Examples
 
 Let's look at some key parts of the application:
