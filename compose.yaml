@@ -1,0 +1,9 @@
+services:
+  postgres:
+    image: 'postgres:latest'
+    environment:
+      - 'POSTGRES_DB=mySaaS'
+      - 'POSTGRES_PASSWORD=password'
+      - 'POSTGRES_USER=dan'
+    ports:
+      - '5432:5432'
