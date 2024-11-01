@@ -1,6 +1,6 @@
 # JTE + Forms
 
-Welcome to the JTE + Forms project! This Spring Boot application showcases the integration of JTE (Java Template Engine) with form handling, providing a robust foundation for building web applications with server-side rendering.
+Welcome to the JTE + Forms project! This Spring Boot application showcases the integration of [JTE](https://jte.gg) (Java Template Engine) with form handling, providing a robust foundation for building web applications with server-side rendering.
 
 ## Project Overview
 
@@ -23,7 +23,7 @@ This project relies on the following main dependencies:
 - Spring Boot 3.3.4
 - Spring Web
 - Spring Data JDBC
-- JTE (Java Template Engine) 3.1.12
+- [JTE](https://jte.gg) (Java Template Engine) 3.1.12
 - PostgreSQL
 - Spring Boot Docker Compose
 - Spring Boot Validation
